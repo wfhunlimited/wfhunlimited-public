@@ -1,0 +1,14 @@
+title: working from home unltd
+description: "A small indie studio making well-crafted hobby mobile apps — useful, calm, and beautifully made."
+url: https://wfhunlimited.com
+baseurl: ""
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - LICENSE
