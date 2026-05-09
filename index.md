@@ -44,7 +44,7 @@ description: "working from home unltd — a small indie studio making well-craft
           <li><span class="material-symbols-rounded">monitoring</span>Weight, BMI &amp; glucose</li>
         </ul>
         <div class="app-actions">
-          <a href="https://dietcoach.wfhunlimited.com" class="cta">
+          <a href="https://dietcoach.workingfromhome-ultd.com" class="cta">
             Visit site
             <span class="material-symbols-rounded">arrow_outward</span>
           </a>
@@ -73,7 +73,7 @@ description: "working from home unltd — a small indie studio making well-craft
           <li><span class="material-symbols-rounded">pets</span>Compatibility advice</li>
         </ul>
         <div class="app-actions">
-          <a href="https://aquariumsensei.wfhunlimited.com" class="cta">
+          <a href="https://aquariumsensei.workingfromhome-ultd.com" class="cta">
             Visit site
             <span class="material-symbols-rounded">arrow_outward</span>
           </a>
